@@ -1,6 +1,6 @@
 #include <iostream>
 int main() {
-    int a = 0;
+    int a = 1;
     int b = 0;
     char c = ''; // Initialize with a space or valid default value
 
